@@ -18,8 +18,8 @@ export const INITIAL_PROFILE = {
     {
       id: "whatsapp",
       name: "WhatsApp",
-      handle: "+1 (555) 234-5678",
-      url: "https://wa.me/+918086630149",
+      handle: "+91 9207806661",
+      url: "https://wa.me/919207806661",
       color: "#25D366",
       bgColor: "#E8F9EE",
       icon: "whatsapp",
@@ -56,9 +56,9 @@ export const INITIAL_PROFILE = {
       image: "/icons/linkedin.png"
     },
     {
-      id: "linkedin",
+      id: "gmail",
       name: "Gmail",
-      handle: "ahmedgamal-pd",
+      handle: "printogroup@gmail.com",
       url: "mailto:printogroup@gmail.com",
       color: "#0A66C2",
       bgColor: "#E6F0FA",
@@ -66,9 +66,9 @@ export const INITIAL_PROFILE = {
       image: "/icons/gmail.png"
     },
     {
-      id: "linkedin",
+      id: "website",
       name: "Website",
-      handle: "ahmedgamal-pd",
+      handle: "www.printocards.com",
       url: "https://www.printocards.com",
       color: "#0A66C2",
       bgColor: "#E6F0FA",
@@ -76,9 +76,9 @@ export const INITIAL_PROFILE = {
       image: "/icons/website.png"
     },
     {
-      id: "linkedin",
+      id: "indiamart",
       name: "India Mart",
-      handle: "ahmedgamal-pd",
+      handle: "Printo Cards",
       url: "https://www.indiamart.com/printo-cards-and-technologies/",
       color: "#0A66C2",
       bgColor: "#E6F0FA",
